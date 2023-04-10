@@ -1,7 +1,8 @@
-#include <Servo.h> 
+#include <Servo.h>
 
 // Creating servo objects
 // left and right is with respect to looking at the robot from the back
+
 Servo leftAnkle;
 Servo rightAnkle;
 Servo leftHip;
